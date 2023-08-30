@@ -3,3 +3,8 @@ Alejandro Garzon tiene 18 años y nacio en Bogota/Colombia
 Hoy hablaremos de su historia
 
 ESTE ES EL ARCHIVO NORMAL!!!!!
+
+
+Comenzemos a hacer cambios a la cabecerao para poder visualizar 
+con mas clridad lo que hacen las ramas en git, y poder sergir 
+prcticando y mejorando en esta habilidad.
