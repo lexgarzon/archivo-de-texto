@@ -8,3 +8,6 @@ ESTE ES EL ARCHIVO NORMAL!!!!!
 Comenzemos a hacer cambios a la cabecerao para poder visualizar 
 con mas clridad lo que hacen las ramas en git, y poder sergir 
 prcticando y mejorando en esta habilidad.
+
+
+Digamos que hice unos cabios al archovo de mi proyecto :0-0
