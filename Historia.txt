@@ -4,11 +4,11 @@ Hoy hablaremos de su historia
 
 ESTE ES EL ARCHIVO NORMAL!!!!!
 
-<<<<<<< HEAD
+
 pero antes un prologo para que anteceda a nuestro archovo final
 de una buena 
 vez ...
-=======
+
 
 Comenzemos a hacer cambios a la cabecerao para poder visualizar 
 con mas clridad lo que hacen las ramas en git, y poder sergir 
@@ -16,7 +16,6 @@ prcticando y mejorando en esta habilidad.
 
 
 Digamos que hice unos cabios al archovo de mi proyecto :0-0
->>>>>>> Cabecerao
 
 Alejemonos de la rama Cabecerao 
 
