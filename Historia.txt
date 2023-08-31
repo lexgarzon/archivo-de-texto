@@ -1,0 +1,22 @@
+Hola, esta es la historia de Alejandro Garzon
+Alejandro Garzon tiene 18 años y nacio en Bogota/Colombia 
+Hoy hablaremos de su historia
+
+ESTE ES EL ARCHIVO NORMAL!!!!!
+
+
+pero antes un prologo para que anteceda a nuestro archovo final
+de una buena 
+vez ...
+
+
+Comenzemos a hacer cambios a la cabecerao para poder visualizar 
+con mas clridad lo que hacen las ramas en git, y poder sergir 
+prcticando y mejorando en esta habilidad.
+
+
+Digamos que hice unos cabios al archovo de mi proyecto :0-0
+
+Alejemonos de la rama Cabecerao 
+
+Aqui quiero mi conficto super maestro
